@@ -105,7 +105,10 @@
         border-top: 1px solid rgba(256, 256, 256, .1)
     }
 }
-
+.logo{
+    height: 60px;
+    
+}
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
         display: block;
